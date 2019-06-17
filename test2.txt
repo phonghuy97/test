@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 thêm phần kh
+=======
+thêm vào phần test 2
+
+>>>>>>> lan2
